@@ -16,7 +16,7 @@ x_list=[]
 
 refresh=.000001 #timestep. smaller number = harder to run, greater precision.
 
-#Intial concentrations of dummy reactants
+#Initial concentrations of dummy reactants
 initX = 1
 initY = 1
 initZ = 1
